@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/CodeBreed/static/css/main.9ce5f8c0.chunk.css"
   },
   {
-    "revision": "ab7770d1be1a009d69c71a39ee4e10f8",
+    "revision": "2dfed15597ec5669649bf171ec70b3e3",
     "url": "/CodeBreed/index.html"
   }
 ];
