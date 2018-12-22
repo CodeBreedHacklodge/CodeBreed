@@ -2,7 +2,7 @@
   "name": "leetcodr",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sejalkhatri.github.io/CodeBreed",
+  "homepage": "https://codebreedhacklodge.github.io/CodeBreed",
   "dependencies": {
     "react": "^16.6.3",
     "react-ace": "^6.2.0",
