@@ -65,12 +65,12 @@ export default class VisualThree extends Component {
         return (
             <div class="mobileapp" >
             <div class="mobile_nav">
-                <img class ="mobile_logo" src= "/tea.png"/>
+                <img class ="mobile_logo" src= "tea.png"/>
                 <ul>
                     <li> The Boba App</li>
                 </ul>
             <div class = "mobile_right">
-                <img class ="mobile_logo" src= "/menu.png"/>
+                <img class ="mobile_logo" src= "menu.png"/>
              </div>
             </div>
             <div id="container">

@@ -18,11 +18,11 @@ class Home extends Component {
     render() {
         return(
             <div>
- 
+
     <div id = "main_page">
         <div id="container">
             <div id="image_left">
-                 <img className ="main_img" src= "/coding.png"/>
+                 <img className ="main_img" src= "coding.png"/>
             </div>
             <div id="info">
                 <div id="info_container">
@@ -33,7 +33,7 @@ class Home extends Component {
                         Have you ever had trouble staying focused with Leetcode? Like many others, you've probably experienced the 'Leetcode grind' while preparing for interviews. While practicing Leetcode is essential to building programming skills, it can get very tedious...
 This is where Codebreed will help! Practice well-integrated Leetcode questions that directly contribute to an app you build, step-by-step, from scratch! Make progress on a personal app that uses your leetcode algorithms for practical application. Try Codebreed:
                     </div>
-                    
+
         <Link className= "trial" to  = "/ide" >Take a free trial</Link>
                 </div>
             </div>
