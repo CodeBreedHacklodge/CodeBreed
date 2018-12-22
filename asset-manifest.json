@@ -1,7 +1,7 @@
 {
   "main.css": "/CodeBreed/static/css/main.9ce5f8c0.chunk.css",
-  "main.js": "/CodeBreed/static/js/main.ef7f4ce6.chunk.js",
-  "main.js.map": "/CodeBreed/static/js/main.ef7f4ce6.chunk.js.map",
+  "main.js": "/CodeBreed/static/js/main.179fa331.chunk.js",
+  "main.js.map": "/CodeBreed/static/js/main.179fa331.chunk.js.map",
   "static/js/1.5f759a21.chunk.js": "/CodeBreed/static/js/1.5f759a21.chunk.js",
   "static/js/1.5f759a21.chunk.js.map": "/CodeBreed/static/js/1.5f759a21.chunk.js.map",
   "runtime~main.js": "/CodeBreed/static/js/runtime~main.ecdc2e2d.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/CodeBreed/static/media/logo.5d5d9eef.svg",
   "static/css/main.9ce5f8c0.chunk.css.map": "/CodeBreed/static/css/main.9ce5f8c0.chunk.css.map",
   "index.html": "/CodeBreed/index.html",
-  "precache-manifest.c59cfe6cef847dc1ed788b8bb30a9362.js": "/CodeBreed/precache-manifest.c59cfe6cef847dc1ed788b8bb30a9362.js",
+  "precache-manifest.0900066dd69fa880f9b60cdd923f0c6f.js": "/CodeBreed/precache-manifest.0900066dd69fa880f9b60cdd923f0c6f.js",
   "service-worker.js": "/CodeBreed/service-worker.js"
 }
