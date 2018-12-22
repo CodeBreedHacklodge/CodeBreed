@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/CodeBreed/precache-manifest.2d95b9b4ac3339f9f127feea7ebb1d56.js"
+  "/CodeBreed/precache-manifest.decb9c8e2dfa0041e836e442c925c285.js"
 );
 
 workbox.clientsClaim();
