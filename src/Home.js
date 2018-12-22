@@ -22,7 +22,7 @@ class Home extends Component {
     <div id = "main_page">
         <div id="container">
             <div id="image_left">
-                 <img className ="main_img" src= "/assets/coding.png"/>
+                 <img className ="main_img" src= "/coding.png"/>
             </div>
             <div id="info">
                 <div id="info_container">
